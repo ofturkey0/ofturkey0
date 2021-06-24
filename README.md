@@ -1,4 +1,5 @@
-### - 📫 Açık Kaynak Koduna Mı İhtiyacın Var? Ben Burdayım.
+### - 📫 Merhaba ben Alihan.
+💬 İletişim için twitter'da beklerim sizi.
 
 <!--
 **ofturkey0/ofturkey0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
