@@ -25,7 +25,7 @@ Merhaba aşağıdaki bağlantılardan benimle iletişim kura bilirsiniz.
 
 <details> <summary>Detaylar
  </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=ofturkey0&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api?username=ofturkey0&show_icons=true&theme=dark">
  </dateils>
 
 [twitter]: https://twitter.com/Ofturkey1
