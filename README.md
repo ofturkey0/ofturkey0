@@ -1,20 +1,22 @@
-### Ofturkey
-# Ben Alihan Karakus.
+### Merhaba ben Alihan.
 
-## Hakımda.
+## C# VE Python Geliştiricisi | Blog yazarı
 
- ![Ben Kimim](https://i2.wp.com/www.muhiddinyenigun.com/wp-content/uploads/2020/07/Ben_kimim_site.png?fit=460%2C276&ssl=1) <br>
- 
- Ben Alihan 2017'den beri internet'e aktif 
- <br> olarak içerikler üreten bir bağımsız geliştiriciyim. <br>
- 
-### Ofturkey Nedir?
- Ofturkey ingilizcedeki of yani sahiplik turkey yani türkiye olarak düşüne bilirsiniz lakin <br> 
- Ofturkey hiçbir anlam taşımıyor Ofturkey benim (Alihan Karakuş) takma adı olup ingilizce deki <br>
- anlamıyla hiçbir alakası yoktur.
- 
-## İletişim.
 
-[🐦twitter](https://twitter.com/Ofturkey1) <br>
-[🌐Sitem](https://ofturkey0.github.io/)
 
+
+Merhaba aşağıdaki bağlantılardan benimle iletişim kura bilirsiniz.
+### İletişim
+
+[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left" />][twitter]
+
+<br />
+<br />
+
+
+
+
+### Kullandığım diller.
+
+
+[twitter]: https://twitter.com/Ofturkey1
