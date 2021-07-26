@@ -23,7 +23,9 @@ Merhaba aşağıdaki bağlantılardan benimle iletişim kura bilirsiniz.
 <br />
 <br />
 
-<details>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ofturkey0)](https://github.com/anuraghazra/github-readme-stats)
+<details> <summary>Detaylar
+ </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=ofturkey0&show_icons=true&theme=radical">
  </dateils>
 
 [twitter]: https://twitter.com/Ofturkey1
