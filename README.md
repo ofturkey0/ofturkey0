@@ -11,6 +11,7 @@ Merhaba aşağıdaki bağlantılardan benimle iletişim kura bilirsiniz.
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left" />][twitter]
 
 <br />
+Mail: ofturkeyiletisim@protonmail.com
 <br />
 
 
@@ -28,4 +29,4 @@ Merhaba aşağıdaki bağlantılardan benimle iletişim kura bilirsiniz.
 <img src="https://github-readme-stats.vercel.app/api?username=ofturkey0&show_icons=true&theme=dark">
  </dateils>
 
-[twitter]: https://twitter.com/Ofturkey1
+[twitter]: https://fosstodon.org/@ofturkey
